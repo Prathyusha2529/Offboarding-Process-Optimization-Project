@@ -51,8 +51,11 @@ The project focused on identifying inefficiencies in the offboarding workflow, i
 
 **🚀 Technologies Used**
 **MariaDB:** Relational database management system.
+
 **SQL:** For querying and managing the database.
+
 **Lucidchart / Draw.io:** For creating swim lane and ERD diagrams.
+
 **Business Process Re-Engineering Principles:** To optimize workflows.
 
 **📊 Results and Impact**
